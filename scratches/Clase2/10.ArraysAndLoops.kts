@@ -20,7 +20,7 @@ println(Arrays.toString(intArrayOf(2, 3)))
 
 //println(Arrays.toString(intArrayOf(2, "foo")))  NOT COMPILE
 
-
+//arrayOf assign elements
 val mix = arrayOf("fish", 2)
 println(Arrays.toString(mix))
 
